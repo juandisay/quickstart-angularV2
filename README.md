@@ -177,6 +177,11 @@ Thereafter, run them with `npm run e2e`.
 That command first compiles, then simultaneously starts the `lite-server` at `localhost:8080`
 and launches Protractor.  
 
+
+ERROR Node/index.d.ts
+https://stackoverflow.com/questions/63720450/node-modules-types-node-index-d-ts20-1-error-ts1084-invalid-reference-dir
+
+
 The pass/fail test results appear at the bottom of the terminal window.
 A custom reporter (see `protractor.config.js`) generates a  `./_test-output/protractor-results.txt` file
 which is easier to read; this file is excluded from source control.
