@@ -1,5 +1,5 @@
 # Angular QuickStart Source
-[![Build Status][travis-badge]][travis-badge-url]
+[![Build Status][travis-badge]][travis-badge-url](https://travis-ci.com/juandisay/quickstart-angularV2.svg?branch=main)
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
 the foundation for most of the documentation samples and potentially a good starting point for your application.
